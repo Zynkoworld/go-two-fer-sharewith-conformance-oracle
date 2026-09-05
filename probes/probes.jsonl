@@ -1,0 +1,3 @@
+{"input": "", "expect": "One for you, one for me.", "raised": false, "task": "two-fer", "lang": "go"}
+{"input": "Alice", "expect": "One for Alice, one for me.", "raised": false, "task": "two-fer", "lang": "go"}
+{"input": "Bob", "expect": "One for Bob, one for me.", "raised": false, "task": "two-fer", "lang": "go"}

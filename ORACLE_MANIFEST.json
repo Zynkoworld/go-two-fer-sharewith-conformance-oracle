@@ -1,0 +1,16 @@
+{
+ "oracle_class": "compute-oracle",
+ "oracle_type": "codegen-conformance",
+ "title": "Konformancia-felulet: two-fer (go, kanonikus exercism korpusz)",
+ "owner": "harvest",
+ "verify": "python3 verify.py",
+ "hardware_free_verify": true,
+ "publish_ready": true,
+ "measurement_byte_lock": "300066292df8b9177543c44c950ceeb0339e4df66d510430d2a303332b5c7a7c",
+ "evidence_band": "empirical-corpus",
+ "evidence_basis": "sealed ujrafuttatas a KOZOLT kanonikus korpuszon; nem szimbolikus",
+ "not_comparable_with": "symbolic-full-input-space (KLEE-alapu conformance)",
+ "runtime_dependency": "go",
+ "summary": "3 kanonikus bemenet/kimenet par, 3 distinct; a referencia PROVEN (pin=19cf0be7577f6464)",
+ "scope_note": "NEM altalanos helyesseg-orakulum; a kozolt korpuszon kivul semmit nem allit."
+}
